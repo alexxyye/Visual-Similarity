@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 import cv2
 # load the image
-example = '/Users/huangkexin/Desktop/MatlabPractice/Visual-Similarity/Data/7_Maurer_inprep_followup/c1.png'
+example = '/Users/huangkexin/Desktop/MatlabPractice/Visual-Similarity/Data/7_Maurer_inprep_followup/c2.png'
 image = Image.open(example)
 # convert image to numpy array
 data = asarray(image)
