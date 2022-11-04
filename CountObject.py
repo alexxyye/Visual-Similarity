@@ -12,7 +12,26 @@ def read_dic(mypath:str)-> list:
     onlyfiles = [mypath + '/'+f for f in listdir(mypath) if isfile(join(mypath, f)) and f != ".DS_Store"]
     return onlyfiles
 
-folder = read_dic('/Users/alex/Documents/GitHub/Visual-Similarity/Data/7_Maurer_inprep_followup')
+# define function find min&max i&j in dictionary for each key
+def find_min_max_ij(dic):
+    i_s =[]
+    j_s =[]
+    for tup in dic:
+        i_s.append(tup[0])
+        j_s.append(tup[1])
+    i_min,i_max = min(i_s),max(i_s)
+    j_min,j_max = min(j_s),max(j_s)
+    return i_min,i_max,j_min,j_max
+
+# define contain function
+def contain(i_min1,i_max1,j_min1,j_max1,i_min2,i_max2,j_min2,j_max2):
+    if i_min1<i_min2 and j_min1<j_min2 and i_max1>i_max2 and j_max1>j_max2:
+        return True # label 1 contains label 2
+    else:
+        return False
+
+folder = read_dic('Data/7_Maurer_inprep_followup')
+
 image_Labels = []
 for file in folder:
     # load the image
@@ -29,6 +48,7 @@ for file in folder:
                 data[m][n] = 0
     num_labels, labels = cv2.connectedComponents(data)
     image_Labels.append(labels)
+print(len())
 
 for labels in image_Labels:
     # list all i and j in dictionary according to labels
@@ -41,16 +61,7 @@ for labels in image_Labels:
                 dic[labels[i][j]] = []
                 dic[labels[i][j]].append((i,j))
 
-    # define function find min&max i&j in dictionary for each key
-    def find_min_max_ij(dic):   
-        i_s =[]
-        j_s =[]
-        for tup in dic:
-            i_s.append(tup[0])
-            j_s.append(tup[1])
-        i_min,i_max = min(i_s),max(i_s)
-        j_min,j_max = min(j_s),max(j_s)
-        return i_min,i_max,j_min,j_max
+
 
     # make a dic for i&j min&max
     dic_min_max= {}
@@ -58,12 +69,7 @@ for labels in image_Labels:
         i_min,i_max,j_min,j_max = find_min_max_ij(dic[obj])
         dic_min_max[obj] = [i_min,i_max,j_min,j_max]
 
-    # define contain function
-    def contain(i_min1,i_max1,j_min1,j_max1,i_min2,i_max2,j_min2,j_max2):
-        if i_min1<i_min2 and j_min1<j_min2 and i_max1>i_max2 and j_max1>j_max2:
-            return True # label 1 contains label 2
-        else:
-            return False
+
 
     # find where the 0s are in original data -> 8 in 'labels'
     for key in dic.keys():
