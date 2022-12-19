@@ -1,0 +1,169 @@
+ind,content,num_of_obj,sum_of_obj,sum_of_stroke,sum_of_junc,file_loc,PC,inkArea,perimeter
+1,PFERD,5,"[4, 6, 3, 5, 5]",23,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (1).BMP,14.771700712209,21480.2901960784,1996.82614379085
+2,PFERD,5,"[4, 6, 3, 5, 5]",23,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (2).BMP,14.771700712209,21480.2901960784,1996.82614379085
+3,TAG,3,"[3, 4, 3]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (3).BMP,8.18045884555443,11623,1093.08235294118
+4,KNIE,4,"[3, 2, 3, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (4).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+5,BEIN,4,"[5, 3, 3, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (5).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+6,GELD,4,"[3, 3, 3, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (6).BMP,12.667892977345,18128.1803921569,1698.76862745098
+7,MANN,4,"[2, 4, 2, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (7).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+8,HUT,3,"[3, 2, 3]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (8).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+9,BOOT,4,"[5, 3, 3, 3]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (9).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+10,RAD,3,"[5, 4, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (10).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+11,MILCH,5,"[2, 3, 3, 2, 3]",13,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (11).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+12,OHR,3,"[3, 3, 5]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (12).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+13,KIND,4,"[3, 3, 2, 5]",13,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (13).BMP,12.5093226704877,18487.062745098,1704.73071895425
+14,SPIEL,5,"[3, 4, 3, 3, 3]",16,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (14).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+15,WORT,4,"[3, 3, 5, 3]",14,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (15).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+16,HUT,3,"[3, 2, 3]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (16).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+17,BEIN,4,"[5, 3, 3, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (17).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+18,BOOT,4,"[5, 3, 3, 3]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (18).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+19,OHR,3,"[3, 3, 5]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (19).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+20,TAG,3,"[3, 4, 3]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (20).BMP,8.18045884555443,11623,1093.08235294118
+21,SPIEL,5,"[3, 4, 3, 3, 3]",16,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (21).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+22,WORT,4,"[3, 3, 5, 3]",14,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (22).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+23,PFERD,5,"[4, 6, 3, 5, 5]",23,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (23).BMP,14.771700712209,21480.2901960784,1996.82614379085
+24,KIND,4,"[3, 3, 2, 5]",13,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (24).BMP,12.5093226704877,18487.062745098,1704.73071895425
+25,GELD,4,"[3, 3, 3, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (25).BMP,12.667892977345,18128.1803921569,1698.76862745098
+26,MILCH,5,"[2, 3, 3, 2, 3]",13,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (26).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+27,RAD,3,"[5, 4, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (27).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+28,KNIE,4,"[3, 2, 3, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (28).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+29,MANN,4,"[2, 4, 2, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (29).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+30,GELD,4,"[3, 3, 3, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (30).BMP,12.667892977345,18128.1803921569,1698.76862745098
+31,TAG,3,"[3, 4, 3]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (31).BMP,8.18045884555443,11623,1093.08235294118
+32,HUT,3,"[3, 2, 3]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (32).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+33,MILCH,5,"[2, 3, 3, 2, 3]",13,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (33).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+34,BOOT,4,"[5, 3, 3, 3]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (34).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+35,KIND,4,"[3, 3, 2, 5]",13,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (35).BMP,12.5093226704877,18487.062745098,1704.73071895425
+36,BEIN,4,"[5, 3, 3, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (36).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+37,PFERD,5,"[4, 6, 3, 5, 5]",23,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (37).BMP,14.771700712209,21480.2901960784,1996.82614379085
+38,MANN,4,"[2, 4, 2, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (38).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+39,KNIE,4,"[3, 2, 3, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (39).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+40,OHR,3,"[3, 3, 5]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (40).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+41,WORT,4,"[3, 3, 5, 3]",14,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (41).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+42,RAD,3,"[5, 4, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (42).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+43,SPIEL,5,"[3, 4, 3, 3, 3]",16,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (43).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+44,HUT,3,"[3, 2, 3]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (44).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+45,KIND,4,"[3, 3, 2, 5]",13,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (45).BMP,12.5093226704877,18487.062745098,1704.73071895425
+46,RAD,3,"[5, 4, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (46).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+47,WORT,4,"[3, 3, 5, 3]",14,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (47).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+48,BOOT,4,"[5, 3, 3, 3]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (48).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+49,KNIE,4,"[3, 2, 3, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (49).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+50,OHR,3,"[3, 3, 5]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (50).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+51,TAG,3,"[3, 4, 3]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (51).BMP,8.18045884555443,11623,1093.08235294118
+52,GELD,4,"[3, 3, 3, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (52).BMP,12.667892977345,18128.1803921569,1698.76862745098
+53,PFERD,5,"[4, 6, 3, 5, 5]",23,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (53).BMP,14.771700712209,21480.2901960784,1996.82614379085
+54,BEIN,4,"[5, 3, 3, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (54).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+55,MILCH,5,"[2, 3, 3, 2, 3]",13,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (55).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+56,SPIEL,5,"[3, 4, 3, 3, 3]",16,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (56).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+57,MANN,4,"[2, 4, 2, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (57).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+58,SPIEL,5,"[3, 4, 3, 3, 3]",16,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (58).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+59,TAG,3,"[3, 4, 3]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (59).BMP,8.18045884555443,11623,1093.08235294118
+60,WORT,4,"[3, 3, 5, 3]",14,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (60).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+61,MANN,4,"[2, 4, 2, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (61).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+62,GELD,4,"[3, 3, 3, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (62).BMP,12.667892977345,18128.1803921569,1698.76862745098
+63,RAD,3,"[5, 4, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (63).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+64,HUT,3,"[3, 2, 3]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (64).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+65,BOOT,4,"[5, 3, 3, 3]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (65).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+66,BEIN,4,"[5, 3, 3, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (66).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+67,MILCH,5,"[2, 3, 3, 2, 3]",13,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (67).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+68,KNIE,4,"[3, 2, 3, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (68).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+69,OHR,3,"[3, 3, 5]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (69).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+70,PFERD,5,"[4, 6, 3, 5, 5]",23,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (70).BMP,14.771700712209,21480.2901960784,1996.82614379085
+71,KIND,4,"[3, 3, 2, 5]",13,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (71).BMP,12.5093226704877,18487.062745098,1704.73071895425
+72,HUT,3,"[3, 2, 3]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (72).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+73,OHR,3,"[3, 3, 5]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (73).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+74,BOOT,4,"[5, 3, 3, 3]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (74).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+75,KIND,4,"[3, 3, 2, 5]",13,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (75).BMP,12.5093226704877,18487.062745098,1704.73071895425
+76,TAG,3,"[3, 4, 3]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (76).BMP,8.18045884555443,11623,1093.08235294118
+77,KNIE,4,"[3, 2, 3, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (77).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+78,SPIEL,5,"[3, 4, 3, 3, 3]",16,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (78).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+79,RAD,3,"[5, 4, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (79).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+80,BEIN,4,"[5, 3, 3, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (80).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+81,WORT,4,"[3, 3, 5, 3]",14,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (81).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+82,MANN,4,"[2, 4, 2, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (82).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+83,GELD,4,"[3, 3, 3, 5]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (83).BMP,12.667892977345,18128.1803921569,1698.76862745098
+84,MILCH,5,"[2, 3, 3, 2, 3]",13,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (84).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+85,OHR,3,"[1, 3, 3]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (1).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+86,BEIN,4,"[3, 4, 1, 3]",11,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (2).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+87,KIND,4,"[3, 1, 3, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (3).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+88,WORT,4,"[4, 1, 3, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (4).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+89,MANN,4,"[4, 3, 3, 3]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (5).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+90,KNIE,4,"[3, 3, 1, 4]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (6).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+91,RAD,3,"[3, 3, 2]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (7).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+92,MILCH,5,"[4, 1, 1, 1, 3]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (8).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+93,PFERD,5,"[2, 3, 4, 3, 2]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (9).BMP,53.354798357941696,7217.86666666667,2199.86535947712
+94,OHR,3,"[1, 3, 3]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (10).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+95,BOOT,4,"[3, 1, 1, 2]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (11).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+96,SPIEL,5,"[1, 2, 1, 4, 1]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (12).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+97,GELD,4,"[2, 4, 1, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (13).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+98,HUT,3,"[3, 1, 2]",6,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (14).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+99,TAG,3,"[2, 3, 2]",7,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (15).BMP,32.303185750664,4149.47058823529,1297.84836601307
+100,SPIEL,5,"[1, 2, 1, 4, 1]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (16).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+101,BOOT,4,"[3, 1, 1, 2]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (17).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+102,HUT,3,"[3, 1, 2]",6,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (18).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+103,BEIN,4,"[3, 4, 1, 3]",11,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (19).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+104,GELD,4,"[2, 4, 1, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (20).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+105,PFERD,5,"[2, 3, 4, 3, 2]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (21).BMP,53.354798357941696,7217.86666666667,2199.86535947712
+106,TAG,3,"[2, 3, 2]",7,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (22).BMP,32.303185750664,4149.47058823529,1297.84836601307
+107,OHR,3,"[1, 3, 3]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (23).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+108,WORT,4,"[4, 1, 3, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (24).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+109,KIND,4,"[3, 1, 3, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (25).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+110,MILCH,5,"[4, 1, 1, 1, 3]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (26).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+111,MANN,4,"[4, 3, 3, 3]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (27).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+112,KNIE,4,"[3, 3, 1, 4]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (28).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+113,RAD,3,"[3, 3, 2]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (29).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+114,GELD,4,"[2, 4, 1, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (30).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+115,MILCH,5,"[4, 1, 1, 1, 3]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (31).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+116,WORT,4,"[4, 1, 3, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (32).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+117,SPIEL,5,"[1, 2, 1, 4, 1]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (33).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+118,MANN,4,"[4, 3, 3, 3]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (34).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+119,HUT,3,"[3, 1, 2]",6,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (35).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+120,KNIE,4,"[3, 3, 1, 4]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (36).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+121,TAG,3,"[2, 3, 2]",7,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (37).BMP,32.303185750664,4149.47058823529,1297.84836601307
+122,BOOT,4,"[3, 1, 1, 2]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (38).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+123,OHR,3,"[1, 3, 3]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (39).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+124,PFERD,5,"[2, 3, 4, 3, 2]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (40).BMP,53.354798357941696,7217.86666666667,2199.86535947712
+125,BEIN,4,"[3, 4, 1, 3]",11,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (41).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+126,KIND,4,"[3, 1, 3, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (42).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+127,RAD,3,"[3, 3, 2]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (43).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+128,GELD,4,"[2, 4, 1, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (44).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+129,BEIN,4,"[3, 4, 1, 3]",11,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (45).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+130,OHR,3,"[1, 3, 3]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (46).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+131,PFERD,5,"[2, 3, 4, 3, 2]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (47).BMP,53.354798357941696,7217.86666666667,2199.86535947712
+132,RAD,3,"[3, 3, 2]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (48).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+133,SPIEL,5,"[1, 2, 1, 4, 1]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (49).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+134,MILCH,5,"[4, 1, 1, 1, 3]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (50).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+135,MANN,4,"[4, 3, 3, 3]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (51).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+136,WORT,4,"[4, 1, 3, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (52).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+137,KNIE,4,"[3, 3, 1, 4]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (53).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+138,TAG,3,"[2, 3, 2]",7,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (54).BMP,32.303185750664,4149.47058823529,1297.84836601307
+139,HUT,3,"[3, 1, 2]",6,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (55).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+140,BOOT,4,"[3, 1, 1, 2]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (56).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+141,KIND,4,"[3, 1, 3, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (57).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+142,GELD,4,"[2, 4, 1, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (58).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+143,KIND,4,"[3, 1, 3, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (59).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+144,OHR,3,"[1, 3, 3]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (60).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+145,MILCH,5,"[4, 1, 1, 1, 3]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (61).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+146,MANN,4,"[4, 3, 3, 3]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (62).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+147,SPIEL,5,"[1, 2, 1, 4, 1]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (63).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+148,RAD,3,"[3, 3, 2]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (64).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+149,BEIN,4,"[3, 4, 1, 3]",11,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (65).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+150,BOOT,4,"[3, 1, 1, 2]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (66).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+151,PFERD,5,"[2, 3, 4, 3, 2]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (67).BMP,53.354798357941696,7217.86666666667,2199.86535947712
+152,WORT,4,"[4, 1, 3, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (68).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+153,TAG,3,"[2, 3, 2]",7,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (69).BMP,32.303185750664,4149.47058823529,1297.84836601307
+154,KNIE,4,"[3, 3, 1, 4]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (70).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+155,HUT,3,"[3, 1, 2]",6,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (71).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+156,WORT,4,"[4, 1, 3, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (72).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+157,MILCH,5,"[4, 1, 1, 1, 3]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (73).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+158,RAD,3,"[3, 3, 2]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (74).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+159,GELD,4,"[2, 4, 1, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (75).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+160,BOOT,4,"[3, 1, 1, 2]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (76).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+161,BEIN,4,"[3, 4, 1, 3]",11,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (77).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+162,PFERD,5,"[2, 3, 4, 3, 2]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (78).BMP,53.354798357941696,7217.86666666667,2199.86535947712
+163,HUT,3,"[3, 1, 2]",6,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (79).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+164,MANN,4,"[4, 3, 3, 3]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (80).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+165,KIND,4,"[3, 1, 3, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (81).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+166,SPIEL,5,"[1, 2, 1, 4, 1]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (82).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+167,KNIE,4,"[3, 3, 1, 4]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (83).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+168,TAG,3,"[2, 3, 2]",7,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (84).BMP,32.303185750664,4149.47058823529,1297.84836601307
