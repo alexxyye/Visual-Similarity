@@ -1,121 +1,121 @@
-ind,content,num_of_obj,sum_of_obj,sum_of_stroke,sum_of_junc,file_loc,PC,inkArea,perimeter
-1,9501,4,"[5, 2, 1, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (1).BMP,20.900885268735,14177.0901960784,1929.66013071895
-2,13468,5,"[3, 4, 4, 4, 5]",20,20,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (2).BMP,18.8320890590729,12637.3960784314,1729.35032679739
-3,8108,4,"[5, 3, 1, 5]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (3).BMP,31.1508118112958,20715.4078431373,2847.64836601307
-4,30455,5,"[4, 1, 4, 2, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (4).BMP,22.3297658656059,12801.5215686274,1895.29934640523
-5,8510,4,"[5, 2, 3, 1]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (5).BMP,20.900885268735,14177.0901960784,1929.66013071895
-6,81319,5,"[5, 3, 4, 3, 5]",20,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (6).BMP,33.1506993701845,21176.5803921569,2970.15555555556
-7,1994,4,"[3, 5, 5, 4]",17,15,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (7).BMP,26.987953173626,17736.2039215686,2452.56339869281
-8,819,3,"[5, 3, 5]",13,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (8).BMP,14.3174148666099,8832.66666666667,1260.61699346405
-9,6934,4,"[4, 5, 4, 4]",17,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (9).BMP,19.8929624672803,12700.1607843137,1781.80130718954
-10,340358,6,"[4, 4, 1, 4, 2, 5]",20,18,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (10).BMP,26.2966501084713,16523.9490196078,2336.74901960784
-11,98413,5,"[5, 5, 4, 3, 4]",21,20,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (11).BMP,20.7458791060053,12790.0509803922,1826.02614379085
-12,4456,4,"[4, 4, 2, 4]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (12).BMP,21.0314691816322,12917.2549019608,1847.67189542484
-13,6361,4,"[4, 4, 4, 3]",15,15,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (13).BMP,26.3989979425291,17346.262745098,2398.8418300653602
-14,51436,5,"[2, 3, 4, 4, 4]",17,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (14).BMP,21.3247580059335,13584.5764705882,1907.96339869281
-15,45541,5,"[4, 2, 2, 4, 3]",15,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (15).BMP,27.358083782543,17880.2039215686,2479.32810457516
-16,315,3,"[4, 3, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (16).BMP,21.8640356278622,13414.1058823529,1919.77777777778
-17,33088,5,"[4, 4, 1, 5, 5]",19,18,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (17).BMP,26.857384009484502,17297.9647058824,2416.20784313726
-18,9643,4,"[5, 4, 4, 4]",17,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (18).BMP,17.9984940175666,12139.0470588235,1656.97254901961
-19,345843,6,"[4, 4, 2, 5, 4, 4]",23,22,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (19).BMP,14.5508137908677,9214.14117647059,1298.00392156863
-20,853011,6,"[5, 2, 4, 1, 3, 3]",18,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (20).BMP,19.7566521341268,13417.9411764706,1825.17516339869
-21,11518,5,"[3, 3, 2, 3, 5]",16,15,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (21).BMP,33.3480982736813,22699.1529411765,3084.21960784314
-22,6603,4,"[4, 4, 1, 4]",13,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (22).BMP,25.3489050088077,17283.4980392157,2346.3908496732
-23,10165,5,"[3, 1, 3, 4, 2]",13,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (23).BMP,18.894030813238,12515.2235294118,1723.79869281046
-24,814,3,"[5, 3, 4]",12,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (24).BMP,22.3714408317744,13491.2980392157,1947.50588235294
-25,35601,5,"[4, 2, 4, 1, 3]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (25).BMP,26.9242687819425,17175.7921568627,2410.65620915033
-26,80448,5,"[5, 1, 4, 4, 5]",19,18,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (26).BMP,25.0032253760732,16210.3098039216,2256.82875816994
-27,39541,5,"[4, 5, 2, 4, 3]",18,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (27).BMP,17.6400548925888,11048.3607843137,1564.96209150327
-28,140663,6,"[3, 4, 1, 4, 4, 4]",20,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (28).BMP,28.532816071613,19448.7450980392,2640.72418300654
-29,9501,4,"[5, 2, 1, 3]",11,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (29).BMP,19.7566521341268,13417.9411764706,1825.17516339869
-30,43166,5,"[4, 4, 3, 4, 4]",19,19,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (30).BMP,31.7243394253809,22246.4470588235,2978.04705882353
-31,809,3,"[5, 1, 5]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (31).BMP,34.1787050171094,21493.6156862745,3038.3477124183
-32,1086,4,"[3, 1, 5, 4]",13,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (32).BMP,27.5961202154834,16403.462745098,2385.04575163399
-33,89004,5,"[5, 5, 1, 1, 4]",16,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (33).BMP,22.4764575185852,13933.4117647059,1983.79869281046
-34,4086,4,"[4, 1, 5, 4]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (34).BMP,27.9609817462165,16411.9294117647,2401.38039215686
-35,88014,5,"[5, 5, 1, 3, 4]",18,17,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (35).BMP,14.8827138935176,9994.4862745098,1367.1816993464
-36,438531,6,"[4, 4, 5, 2, 4, 3]",22,21,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (36).BMP,28.5944771396856,17628.4980392157,2516.82875816994
-37,8841,4,"[5, 5, 4, 3]",17,17,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (37).BMP,24.116088347064,16995.3019607843,2269.4614379085
-38,4189,4,"[4, 3, 5, 5]",17,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (38).BMP,25.8598787898953,17113.0274509804,2358.20522875817
-39,46630,5,"[4, 4, 4, 4, 1]",17,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (39).BMP,32.5619315549338,20786.6392156863,2916.4339869281
-40,6006,4,"[4, 1, 1, 4]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (40).BMP,21.0314691816322,12917.2549019608,1847.67189542484
-41,335540,6,"[4, 4, 2, 2, 4, 1]",17,14,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (41).BMP,26.623464163959,16914.5529411765,2378.8522875817
-42,8904,4,"[5, 5, 1, 4]",15,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (42).BMP,14.6718966489101,9656.25490196078,1334.29673202614
-43,40369,5,"[4, 1, 4, 4, 5]",18,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (43).BMP,21.5656062037602,13152.8666666667,1887.97385620915
-44,4653,4,"[4, 4, 2, 4]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (44).BMP,24.903031081776,16951.5960784314,2303.22483660131
-45,143466,6,"[3, 4, 4, 4, 4, 4]",23,23,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (45).BMP,20.0184909269986,13140.337254902,1818.12549019608
-46,60514,5,"[4, 1, 2, 3, 4]",14,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (46).BMP,25.604522232804,17007.831372549,2339.30980392157
-47,3199,4,"[4, 3, 5, 5]",17,15,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (47).BMP,33.2075481183592,22257.4784313726,3047.62352941177
-48,8541,4,"[5, 2, 4, 3]",14,13,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (48).BMP,19.6730771849593,13131.8705882353,1801.7908496732
-49,31459,5,"[4, 3, 4, 2, 5]",18,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (49).BMP,18.8320890590729,12637.3960784314,1729.35032679739
-50,8543,4,"[5, 2, 4, 4]",15,14,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (50).BMP,26.7466889597548,17354.7294117647,2415.17647058824
-51,1984,4,"[3, 5, 5, 4]",17,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (51).BMP,21.9302254823886,13159.3960784314,1904.33986928105
-52,911348,6,"[5, 3, 3, 4, 4, 5]",24,23,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (52).BMP,33.8582518370075,22525.2470588235,3095.79346405229
-53,1551,4,"[3, 2, 2, 3]",10,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (53).BMP,18.9707409071311,13077.5725490196,1765.67450980392
-54,8453,4,"[5, 4, 2, 4]",15,14,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (54).BMP,25.6904865215065,17291.9647058824,2362.72549019608
-55,901036,6,"[5, 1, 3, 1, 4, 4]",18,15,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (55).BMP,21.112975318085,13741.9450980392,1909.43006535948
-56,13089,5,"[3, 4, 1, 5, 5]",18,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (56).BMP,30.9073797912687,20333.9333333333,2810.2614379085
-57,664,3,"[4, 4, 4]",12,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (57).BMP,26.3667949549314,16401.7764705882,2331.19738562092
-58,1486,4,"[3, 4, 5, 4]",16,16,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (58).BMP,20.2143685428337,13365.768627451,1842.60392156863
-59,98101,5,"[5, 5, 3, 1, 3]",17,15,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (59).BMP,20.1940645851246,12961.4,1813.60522875817
-60,1554,4,"[3, 2, 2, 4]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Symbol_ (60).BMP,25.8598787898953,17113.0274509804,2358.20522875817
-61,Cheese,6,"[1, 2, 2, 2, 1, 2]",10,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (1).BMP,44.5458342270653,5694.5137254902,1785.40522875817
-62,Plate,5,"[2, 1, 2, 2, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (2).BMP,60.8191024642713,7364.01176470588,2372.36862745098
-63,Cat,3,"[1, 2, 2]",5,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (3).BMP,59.6717390923159,7648.39607843137,2394.82875816994
-64,Thorn,5,"[2, 2, 1, 2, 2]",9,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (4).BMP,61.839189680245,7871.34509803922,2473.21176470588
-65,Carrot,6,"[1, 2, 2, 2, 1, 2]",10,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (5).BMP,56.3976357599598,7489.22745098039,2303.84836601307
-66,Mouse,5,"[4, 1, 2, 1, 2]",10,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (6).BMP,31.0544322942174,3927.9137254902,1238.07712418301
-67,Hand,4,"[3, 2, 2, 1]",8,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (7).BMP,28.4279720254993,3324.58823529412,1089.8
-68,Bed,3,"[3, 2, 1]",6,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (8).BMP,54.9075645219956,6384.12156862745,2098.80261437908
-69,Banana,6,"[3, 2, 2, 2, 2, 2]",13,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (9).BMP,63.5243414948437,7385.44705882353,2428.08235294118
-70,Finger,6,"[3, 2, 2, 2, 2, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (10).BMP,47.9390062011849,6184.41568627451,1930.18431372549
-71,Ear,3,"[4, 2, 2]",8,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (11).BMP,31.3009775439846,4198.38039215686,1285.06405228758
-72,Grass,5,"[2, 2, 2, 1, 1]",8,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (12).BMP,36.0171543805301,4667.83921568627,1453.50849673203
-73,Bread,5,"[3, 2, 2, 2, 1]",10,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (13).BMP,38.4600740163824,4982.38039215686,1551.77385620915
-74,Ring,4,"[3, 2, 2, 2]",9,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (14).BMP,51.9535085790693,6274.18039215686,2023.90849673203
-75,House,5,"[3, 1, 2, 1, 2]",9,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (15).BMP,32.9072524323505,3831.45098039216,1258.72941176471
-76,Sand,4,"[1, 2, 2, 1]",6,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (16).BMP,40.6712699919339,5076.35294117647,1610.7372549019599
-77,Dog,3,"[2, 1, 2]",5,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (17).BMP,38.0999533304661,4720.46274509804,1503.3477124183
-78,Moon,4,"[4, 1, 1, 2]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (18).BMP,40.3660008024384,5395.12156862745,1654.29673202614
-79,Thread,6,"[2, 2, 2, 2, 2, 1]",11,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (19).BMP,53.9267612028524,7097.01960784314,2193.03267973856
-80,Rose,4,"[3, 1, 1, 2]",7,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (20).BMP,37.8179096593539,5095.17647058824,1556.08496732026
-81,Pillow,6,"[2, 2, 1, 1, 1, 4]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (21).BMP,59.1916434989908,7605.29803921569,2378.44575163399
-82,Toe,3,"[2, 1, 2]",5,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (22).BMP,51.9984131243191,6254.36470588235,2021.58300653595
-83,Fish,4,"[3, 2, 1, 2]",8,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (23).BMP,28.5045001253842,3785.39607843137,1164.44052287582
-84,Pear,4,"[2, 2, 2, 2]",8,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (24).BMP,27.4784452009673,3309.30196078431,1068.97908496732
-85,Donkey,6,"[2, 1, 2, 3, 2, 2]",12,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (25).BMP,33.733493802065,4429.0862745098,1370.22745098039
-86,Snow,4,"[1, 2, 1, 4]",8,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (26).BMP,48.2550547092008,6349.77254901961,1962.25490196078
-87,Pie,3,"[2, 2, 2]",6,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (27).BMP,51.4295495559555,6840.79215686275,2102.63790849673
-88,Car,3,"[1, 2, 2]",5,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (28).BMP,36.1952043290973,4977.67450980392,1504.67843137255
-89,Flower,6,"[3, 1, 1, 4, 2, 2]",13,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (29).BMP,33.7789988971413,4715.19607843137,1414.74509803922
-90,Island,6,"[1, 1, 1, 2, 2, 1]",8,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (30).BMP,36.5254879706459,4384.85098039216,1418.66666666667
-91,Lake,4,"[1, 2, 3, 2]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (31).BMP,28.1205125853976,3564.2,1122.27058823529
-92,Star,4,"[1, 2, 2, 2]",7,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (32).BMP,45.5786528261908,5627.40392156863,1795.31111111111
-93,Water,5,"[4, 2, 2, 2, 2]",12,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (33).BMP,50.9781174890576,6612.80784313726,2058.21045751634
-94,Butter,6,"[3, 2, 2, 2, 2, 2]",13,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (34).BMP,55.0133870087365,6896.87450980392,2183.56078431372
-95,Needle,6,"[3, 2, 2, 1, 1, 2]",11,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (35).BMP,67.14813325709,8347.92549019608,2654.06274509804
-96,Feather,7,"[3, 2, 2, 2, 2, 2, 2]",15,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (36).BMP,35.9051123337333,4976.78039215686,1498.50196078431
-97,Button,6,"[3, 2, 2, 2, 1, 2]",12,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (37).BMP,42.7289824791184,5412.05882352941,1704.69803921569
-98,Shirt,5,"[1, 2, 2, 2, 2]",9,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (38).BMP,54.7093878060724,6839.45882352941,2168.43660130719
-99,Rabbit,6,"[3, 2, 2, 2, 2, 2]",13,12,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (39).BMP,28.9523373658328,3515.68235294118,1130.97124183007
-100,Doll,4,"[2, 1, 1, 1]",5,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (40).BMP,42.8951726972704,5067.56078431373,1652.75555555556
-101,Sea,3,"[1, 2, 2]",5,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (41).BMP,37.1019755843541,4468.17647058824,1443.33986928105
-102,Palm,4,"[2, 2, 1, 3]",8,8,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (42).BMP,43.1758634987561,5491.14509803922,1726.06405228758
-103,Table,5,"[2, 2, 2, 1, 2]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (43).BMP,46.2558498065334,6144.75294117647,1889.90718954248
-104,Book,4,"[3, 1, 1, 3]",8,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (44).BMP,41.084828510553,5155.34117647059,1631.4522875817
-105,Radio,5,"[3, 2, 1, 2, 1]",9,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (45).BMP,44.1294376042997,5597.63529411765,1761.86013071895
-106,Ski,3,"[1, 3, 2]",6,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (46).BMP,42.7137464500189,5011.2431372549,1640.06666666667
-107,Ball,4,"[3, 2, 1, 1]",7,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (47).BMP,42.7071908717988,5671.44705882353,1744.62614379085
-108,Bird,4,"[3, 2, 2, 1]",8,9,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (48).BMP,26.5853116030778,3473.29019607843,1077.2
-109,Sun,3,"[1, 2, 2]",5,2,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (49).BMP,41.5163025995503,4952.93333333333,1607.47973856209
-110,Tree,4,"[2, 2, 2, 2]",8,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (50).BMP,49.8520693289187,5840.6862745098,1912.83921568627
-111,Apple,5,"[3, 2, 2, 1, 2]",10,11,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (51).BMP,59.4596401958039,7435.87058823529,2357.12156862745
-112,Garden,6,"[2, 2, 2, 1, 2, 2]",11,10,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (52).BMP,55.1215322771157,6821.74509803922,2173.76862745098
-113,Frog,4,"[3, 2, 1, 2]",8,5,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (53).BMP,50.1229354538566,6074.45882352941,1956.03660130719
-114,Cake,4,"[1, 2, 3, 2]",8,7,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (54).BMP,36.1327250661277,4389.83137254902,1411.81960784314
-115,Toast,5,"[2, 1, 2, 1, 2]",8,4,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (55).BMP,41.6720045314977,4804.07058823529,1586.1045751634001
-116,Foot,4,"[3, 1, 1, 2]",7,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (56).BMP,27.8749317295589,3513.25490196078,1109.34509803922
-117,Tooth,5,"[2, 1, 1, 2, 2]",8,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (57).BMP,37.3990146480387,4863.44705882353,1511.84444444444
-118,Duck,4,"[2, 2, 1, 3]",8,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (58).BMP,37.8341459493638,4783.89803921569,1508.12679738562
-119,Door,4,"[2, 1, 1, 2]",6,3,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (59).BMP,52.6370985972028,6808.6862745098,2122.1816993464
-120,Chair,5,"[1, 2, 2, 2, 2]",9,6,/Users/alex/Documents/GitHub/Visual-Similarity/Data/2_Maurer_NYC_del//2_Word_ (60).BMP,37.0291399673645,4744.45490196078,1485.83267973856
+content,obj_num,disconnected_stroke,stroke_sum,junc_sum,file_loc,PC
+8543,4,0,15,14,2_Symbol_ (1).BMP,20.900885268735
+1984,4,0,17,16,2_Symbol_ (2).BMP,18.8320890590729
+911348,6,0,24,23,2_Symbol_ (3).BMP,31.1508118112958
+1551,4,0,10,8,2_Symbol_ (4).BMP,22.3297658656059
+8453,4,0,15,14,2_Symbol_ (5).BMP,20.900885268735
+901036,6,2,18,15,2_Symbol_ (6).BMP,33.1506993701845
+13089,5,1,18,16,2_Symbol_ (7).BMP,26.987953173626
+664,3,0,12,12,2_Symbol_ (8).BMP,14.3174148666099
+1486,4,0,16,16,2_Symbol_ (9).BMP,19.8929624672803
+98101,5,1,17,15,2_Symbol_ (10).BMP,26.2966501084713
+1554,4,0,11,9,2_Symbol_ (11).BMP,20.7458791060053
+9501,4,1,11,8,2_Symbol_ (12).BMP,21.0314691816322
+13468,5,0,20,20,2_Symbol_ (13).BMP,26.3989979425291
+8108,4,1,14,13,2_Symbol_ (14).BMP,21.3247580059335
+30455,5,1,13,10,2_Symbol_ (15).BMP,27.358083782543
+8510,4,1,11,9,2_Symbol_ (16).BMP,21.8640356278622
+81319,5,0,20,19,2_Symbol_ (17).BMP,26.8573840094845
+1994,4,0,17,15,2_Symbol_ (18).BMP,17.9984940175666
+819,3,0,13,12,2_Symbol_ (19).BMP,14.5508137908677
+6934,4,0,17,16,2_Symbol_ (20).BMP,19.7566521341268
+340358,6,1,20,18,2_Symbol_ (21).BMP,33.3480982736813
+98413,5,0,21,20,2_Symbol_ (22).BMP,25.3489050088077
+4456,4,0,14,13,2_Symbol_ (23).BMP,18.894030813238
+6361,4,0,15,15,2_Symbol_ (24).BMP,22.3714408317744
+51436,5,0,17,16,2_Symbol_ (25).BMP,26.9242687819425
+45541,5,0,15,13,2_Symbol_ (26).BMP,25.0032253760732
+315,3,0,9,8,2_Symbol_ (27).BMP,17.6400548925888
+33088,5,1,19,18,2_Symbol_ (28).BMP,28.532816071613
+9643,4,0,17,16,2_Symbol_ (29).BMP,19.7566521341268
+345843,6,0,23,22,2_Symbol_ (30).BMP,31.7243394253809
+853011,6,1,18,16,2_Symbol_ (31).BMP,34.1787050171094
+11518,5,0,16,15,2_Symbol_ (32).BMP,27.5961202154834
+6603,4,1,13,12,2_Symbol_ (33).BMP,22.4764575185852
+10165,5,1,13,11,2_Symbol_ (34).BMP,27.9609817462165
+814,3,0,12,12,2_Symbol_ (35).BMP,14.8827138935176
+35601,5,1,14,12,2_Symbol_ (36).BMP,28.5944771396856
+80448,5,1,19,18,2_Symbol_ (37).BMP,24.116088347064
+39541,5,0,18,16,2_Symbol_ (38).BMP,25.8598787898953
+140663,6,1,20,19,2_Symbol_ (39).BMP,32.5619315549338
+9501,4,1,11,8,2_Symbol_ (40).BMP,21.0314691816322
+43166,5,0,19,19,2_Symbol_ (41).BMP,26.623464163959
+809,3,1,11,9,2_Symbol_ (42).BMP,14.6718966489101
+1086,4,1,13,12,2_Symbol_ (43).BMP,21.5656062037602
+89004,5,2,16,13,2_Symbol_ (44).BMP,24.903031081776
+4086,4,1,14,13,2_Symbol_ (45).BMP,20.0184909269986
+88014,5,1,18,17,2_Symbol_ (46).BMP,25.604522232804
+438531,6,0,22,21,2_Symbol_ (47).BMP,33.2075481183592
+8841,4,0,17,17,2_Symbol_ (48).BMP,19.6730771849593
+4189,4,0,17,16,2_Symbol_ (49).BMP,18.8320890590729
+46630,5,1,17,16,2_Symbol_ (50).BMP,26.7466889597548
+6006,4,2,10,8,2_Symbol_ (51).BMP,21.9302254823886
+335540,6,1,17,14,2_Symbol_ (52).BMP,33.8582518370075
+8904,4,1,15,13,2_Symbol_ (53).BMP,18.9707409071311
+40369,5,1,18,16,2_Symbol_ (54).BMP,25.6904865215065
+4653,4,0,14,13,2_Symbol_ (55).BMP,21.112975318085
+143466,6,0,23,23,2_Symbol_ (56).BMP,30.9073797912687
+60514,5,1,14,12,2_Symbol_ (57).BMP,26.3667949549314
+3199,4,0,17,15,2_Symbol_ (58).BMP,20.2143685428337
+8541,4,0,14,13,2_Symbol_ (59).BMP,20.1940645851246
+31459,5,0,18,16,2_Symbol_ (60).BMP,25.8598787898953
+Cheese,6,2,10,7,2_Word_ (1).BMP,44.5458342270653
+Plate,5,1,9,9,2_Word_ (2).BMP,60.8191024642713
+Cat,3,1,5,3,2_Word_ (3).BMP,59.6717390923159
+Thorn,5,1,9,4,2_Word_ (4).BMP,61.839189680245
+Carrot,6,2,10,5,2_Word_ (5).BMP,56.3976357599598
+Mouse,5,2,10,6,2_Word_ (6).BMP,31.0544322942174
+Hand,4,1,8,7,2_Word_ (7).BMP,28.4279720254993
+Bed,3,1,6,8,2_Word_ (8).BMP,54.9075645219956
+Banana,6,0,13,12,2_Word_ (9).BMP,63.5243414948437
+Finger,6,0,13,10,2_Word_ (10).BMP,47.9390062011849
+Ear,3,0,8,6,2_Word_ (11).BMP,31.3009775439846
+Grass,5,2,8,5,2_Word_ (12).BMP,36.0171543805301
+Bread,5,1,10,11,2_Word_ (13).BMP,38.4600740163824
+Ring,4,0,9,8,2_Word_ (14).BMP,51.9535085790693
+House,5,2,9,5,2_Word_ (15).BMP,32.9072524323505
+Sand,4,2,6,5,2_Word_ (16).BMP,40.6712699919339
+Dog,3,1,5,4,2_Word_ (17).BMP,38.0999533304661
+Moon,4,2,8,4,2_Word_ (18).BMP,40.3660008024384
+Thread,6,1,11,9,2_Word_ (19).BMP,53.9267612028524
+Rose,4,2,7,5,2_Word_ (20).BMP,37.8179096593539
+Pillow,6,3,11,10,2_Word_ (21).BMP,59.1916434989908
+Toe,3,1,5,3,2_Word_ (22).BMP,51.9984131243191
+Fish,4,1,8,5,2_Word_ (23).BMP,28.5045001253842
+Pear,4,0,8,7,2_Word_ (24).BMP,27.4784452009673
+Donkey,6,1,12,9,2_Word_ (25).BMP,33.733493802065
+Snow,4,2,8,3,2_Word_ (26).BMP,48.2550547092008
+Pie,3,0,6,6,2_Word_ (27).BMP,51.4295495559555
+Car,3,1,5,3,2_Word_ (28).BMP,36.1952043290973
+Flower,6,2,13,9,2_Word_ (29).BMP,33.7789988971413
+Island,6,4,8,9,2_Word_ (30).BMP,36.5254879706459
+Lake,4,1,8,8,2_Word_ (31).BMP,28.1205125853976
+Star,4,1,7,4,2_Word_ (32).BMP,45.5786528261908
+Water,5,0,12,9,2_Word_ (33).BMP,50.9781174890576
+Butter,6,0,13,10,2_Word_ (34).BMP,55.0133870087365
+Needle,6,2,11,12,2_Word_ (35).BMP,67.14813325709
+Feather,7,0,15,11,2_Word_ (36).BMP,35.9051123337333
+Button,6,1,12,8,2_Word_ (37).BMP,42.7289824791184
+Shirt,5,1,9,5,2_Word_ (38).BMP,54.7093878060724
+Rabbit,6,0,13,12,2_Word_ (39).BMP,28.9523373658328
+Doll,4,3,5,6,2_Word_ (40).BMP,42.8951726972704
+Sea,3,1,5,4,2_Word_ (41).BMP,37.1019755843541
+Palm,4,1,8,8,2_Word_ (42).BMP,43.1758634987561
+Table,5,1,9,9,2_Word_ (43).BMP,46.2558498065334
+Book,4,2,8,7,2_Word_ (44).BMP,41.084828510553
+Radio,5,2,9,9,2_Word_ (45).BMP,44.1294376042997
+Ski,3,1,6,5,2_Word_ (46).BMP,42.7137464500189
+Ball,4,2,7,10,2_Word_ (47).BMP,42.7071908717988
+Bird,4,1,8,9,2_Word_ (48).BMP,26.5853116030778
+Sun,3,1,5,2,2_Word_ (49).BMP,41.5163025995503
+Tree,4,0,8,6,2_Word_ (50).BMP,49.8520693289187
+Apple,5,1,10,11,2_Word_ (51).BMP,59.4596401958039
+Garden,6,1,11,10,2_Word_ (52).BMP,55.1215322771157
+Frog,4,1,8,5,2_Word_ (53).BMP,50.1229354538566
+Cake,4,1,8,7,2_Word_ (54).BMP,36.1327250661277
+Toast,5,2,8,4,2_Word_ (55).BMP,41.6720045314977
+Foot,4,2,7,3,2_Word_ (56).BMP,27.8749317295589
+Tooth,5,2,8,3,2_Word_ (57).BMP,37.3990146480387
+Duck,4,1,8,6,2_Word_ (58).BMP,37.8341459493638
+Door,4,2,6,3,2_Word_ (59).BMP,52.6370985972028
+Chair,5,1,9,6,2_Word_ (60).BMP,37.0291399673645

@@ -1,0 +1,337 @@
+,ind,content,obj_num,disconnected_stroke,stroke_sum,junc_sum,file_loc,PC,inkArea,perimeter
+0,1,PFERD,5.0,0.0,23.0,19.0,,,,
+1,2,PFERD,5.0,0.0,23.0,19.0,,,,
+2,3,TAG,3.0,0.0,10.0,7.0,,,,
+3,4,KNIE,4.0,0.0,11.0,8.0,,,,
+4,5,BEIN,4.0,0.0,13.0,10.0,,,,
+5,6,GELD,4.0,0.0,14.0,12.0,,,,
+6,7,MANN,4.0,0.0,10.0,7.0,,,,
+7,8,HUT,3.0,0.0,8.0,4.0,,,,
+8,9,BOOT,4.0,0.0,14.0,13.0,,,,
+9,10,RAD,3.0,0.0,14.0,12.0,,,,
+10,11,MILCH,5.0,0.0,13.0,8.0,,,,
+11,12,OHR,3.0,0.0,11.0,9.0,,,,
+12,13,KIND,4.0,0.0,13.0,11.0,,,,
+13,14,SPIEL,5.0,0.0,16.0,12.0,,,,
+14,15,WORT,4.0,0.0,14.0,10.0,,,,
+15,16,HUT,3.0,0.0,8.0,4.0,,,,
+16,17,BEIN,4.0,0.0,13.0,10.0,,,,
+17,18,BOOT,4.0,0.0,14.0,13.0,,,,
+18,19,OHR,3.0,0.0,11.0,9.0,,,,
+19,20,TAG,3.0,0.0,10.0,7.0,,,,
+20,21,SPIEL,5.0,0.0,16.0,12.0,,,,
+21,22,WORT,4.0,0.0,14.0,10.0,,,,
+22,23,PFERD,5.0,0.0,23.0,19.0,,,,
+23,24,KIND,4.0,0.0,13.0,11.0,,,,
+24,25,GELD,4.0,0.0,14.0,12.0,,,,
+25,26,MILCH,5.0,0.0,13.0,8.0,,,,
+26,27,RAD,3.0,0.0,14.0,12.0,,,,
+27,28,KNIE,4.0,0.0,11.0,8.0,,,,
+28,29,MANN,4.0,0.0,10.0,7.0,,,,
+29,30,GELD,4.0,0.0,14.0,12.0,,,,
+30,31,TAG,3.0,0.0,10.0,7.0,,,,
+31,32,HUT,3.0,0.0,8.0,4.0,,,,
+32,33,MILCH,5.0,0.0,13.0,8.0,,,,
+33,34,BOOT,4.0,0.0,14.0,13.0,,,,
+34,35,KIND,4.0,0.0,13.0,11.0,,,,
+35,36,BEIN,4.0,0.0,13.0,10.0,,,,
+36,37,PFERD,5.0,0.0,23.0,19.0,,,,
+37,38,MANN,4.0,0.0,10.0,7.0,,,,
+38,39,KNIE,4.0,0.0,11.0,8.0,,,,
+39,40,OHR,3.0,0.0,11.0,9.0,,,,
+40,41,WORT,4.0,0.0,14.0,10.0,,,,
+41,42,RAD,3.0,0.0,14.0,12.0,,,,
+42,43,SPIEL,5.0,0.0,16.0,12.0,,,,
+43,44,HUT,3.0,0.0,8.0,4.0,,,,
+44,45,KIND,4.0,0.0,13.0,11.0,,,,
+45,46,RAD,3.0,0.0,14.0,12.0,,,,
+46,47,WORT,4.0,0.0,14.0,10.0,,,,
+47,48,BOOT,4.0,0.0,14.0,13.0,,,,
+48,49,KNIE,4.0,0.0,11.0,8.0,,,,
+49,50,OHR,3.0,0.0,11.0,9.0,,,,
+50,51,TAG,3.0,0.0,10.0,7.0,,,,
+51,52,GELD,4.0,0.0,14.0,12.0,,,,
+52,53,PFERD,5.0,0.0,23.0,19.0,,,,
+53,54,BEIN,4.0,0.0,13.0,10.0,,,,
+54,55,MILCH,5.0,0.0,13.0,8.0,,,,
+55,56,SPIEL,5.0,0.0,16.0,12.0,,,,
+56,57,MANN,4.0,0.0,10.0,7.0,,,,
+57,58,SPIEL,5.0,0.0,16.0,12.0,,,,
+58,59,TAG,3.0,0.0,10.0,7.0,,,,
+59,60,WORT,4.0,0.0,14.0,10.0,,,,
+60,61,MANN,4.0,0.0,10.0,7.0,,,,
+61,62,GELD,4.0,0.0,14.0,12.0,,,,
+62,63,RAD,3.0,0.0,14.0,12.0,,,,
+63,64,HUT,3.0,0.0,8.0,4.0,,,,
+64,65,BOOT,4.0,0.0,14.0,13.0,,,,
+65,66,BEIN,4.0,0.0,13.0,10.0,,,,
+66,67,MILCH,5.0,0.0,13.0,8.0,,,,
+67,68,KNIE,4.0,0.0,11.0,8.0,,,,
+68,69,OHR,3.0,0.0,11.0,9.0,,,,
+69,70,PFERD,5.0,0.0,23.0,19.0,,,,
+70,71,KIND,4.0,0.0,13.0,11.0,,,,
+71,72,HUT,3.0,0.0,8.0,4.0,,,,
+72,73,OHR,3.0,0.0,11.0,9.0,,,,
+73,74,BOOT,4.0,0.0,14.0,13.0,,,,
+74,75,KIND,4.0,0.0,13.0,11.0,,,,
+75,76,TAG,3.0,0.0,10.0,7.0,,,,
+76,77,KNIE,4.0,0.0,11.0,8.0,,,,
+77,78,SPIEL,5.0,0.0,16.0,12.0,,,,
+78,79,RAD,3.0,0.0,14.0,12.0,,,,
+79,80,BEIN,4.0,0.0,13.0,10.0,,,,
+80,81,WORT,4.0,0.0,14.0,10.0,,,,
+81,82,MANN,4.0,0.0,10.0,7.0,,,,
+82,83,GELD,4.0,0.0,14.0,12.0,,,,
+83,84,MILCH,5.0,0.0,13.0,8.0,,,,
+0,85,OHR,3.0,1.0,7.0,5.0,,,,
+1,86,BEIN,4.0,1.0,11.0,11.0,,,,
+2,87,KIND,4.0,1.0,9.0,9.0,,,,
+3,88,WORT,4.0,1.0,10.0,7.0,,,,
+4,89,MANN,4.0,0.0,13.0,10.0,,,,
+5,90,KNIE,4.0,1.0,11.0,10.0,,,,
+6,91,RAD,3.0,0.0,8.0,8.0,,,,
+7,92,MILCH,5.0,3.0,10.0,8.0,,,,
+8,93,PFERD,5.0,0.0,14.0,12.0,,,,
+9,94,OHR,3.0,1.0,7.0,5.0,,,,
+10,95,BOOT,4.0,2.0,7.0,5.0,,,,
+11,96,SPIEL,5.0,3.0,9.0,8.0,,,,
+12,97,GELD,4.0,1.0,9.0,8.0,,,,
+13,98,HUT,3.0,1.0,6.0,3.0,,,,
+14,99,TAG,3.0,0.0,7.0,6.0,,,,
+15,100,SPIEL,5.0,3.0,9.0,8.0,,,,
+16,101,BOOT,4.0,2.0,7.0,5.0,,,,
+17,102,HUT,3.0,1.0,6.0,3.0,,,,
+18,103,BEIN,4.0,1.0,11.0,11.0,,,,
+19,104,GELD,4.0,1.0,9.0,8.0,,,,
+20,105,PFERD,5.0,0.0,14.0,12.0,,,,
+21,106,TAG,3.0,0.0,7.0,6.0,,,,
+22,107,OHR,3.0,1.0,7.0,5.0,,,,
+23,108,WORT,4.0,1.0,10.0,7.0,,,,
+24,109,KIND,4.0,1.0,9.0,9.0,,,,
+25,110,MILCH,5.0,3.0,10.0,8.0,,,,
+26,111,MANN,4.0,0.0,13.0,10.0,,,,
+27,112,KNIE,4.0,1.0,11.0,10.0,,,,
+28,113,RAD,3.0,0.0,8.0,8.0,,,,
+29,114,GELD,4.0,1.0,9.0,8.0,,,,
+30,115,MILCH,5.0,3.0,10.0,8.0,,,,
+31,116,WORT,4.0,1.0,10.0,7.0,,,,
+32,117,SPIEL,5.0,3.0,9.0,8.0,,,,
+33,118,MANN,4.0,0.0,13.0,10.0,,,,
+34,119,HUT,3.0,1.0,6.0,3.0,,,,
+35,120,KNIE,4.0,1.0,11.0,10.0,,,,
+36,121,TAG,3.0,0.0,7.0,6.0,,,,
+37,122,BOOT,4.0,2.0,7.0,5.0,,,,
+38,123,OHR,3.0,1.0,7.0,5.0,,,,
+39,124,PFERD,5.0,0.0,14.0,12.0,,,,
+40,125,BEIN,4.0,1.0,11.0,11.0,,,,
+41,126,KIND,4.0,1.0,9.0,9.0,,,,
+42,127,RAD,3.0,0.0,8.0,8.0,,,,
+43,128,GELD,4.0,1.0,9.0,8.0,,,,
+44,129,BEIN,4.0,1.0,11.0,11.0,,,,
+45,130,OHR,3.0,1.0,7.0,5.0,,,,
+46,131,PFERD,5.0,0.0,14.0,12.0,,,,
+47,132,RAD,3.0,0.0,8.0,8.0,,,,
+48,133,SPIEL,5.0,3.0,9.0,8.0,,,,
+49,134,MILCH,5.0,3.0,10.0,8.0,,,,
+50,135,MANN,4.0,0.0,13.0,10.0,,,,
+51,136,WORT,4.0,1.0,10.0,7.0,,,,
+52,137,KNIE,4.0,1.0,11.0,10.0,,,,
+53,138,TAG,3.0,0.0,7.0,6.0,,,,
+54,139,HUT,3.0,1.0,6.0,3.0,,,,
+55,140,BOOT,4.0,2.0,7.0,5.0,,,,
+56,141,KIND,4.0,1.0,9.0,9.0,,,,
+57,142,GELD,4.0,1.0,9.0,8.0,,,,
+58,143,KIND,4.0,1.0,9.0,9.0,,,,
+59,144,OHR,3.0,1.0,7.0,5.0,,,,
+60,145,MILCH,5.0,3.0,10.0,8.0,,,,
+61,146,MANN,4.0,0.0,13.0,10.0,,,,
+62,147,SPIEL,5.0,3.0,9.0,8.0,,,,
+63,148,RAD,3.0,0.0,8.0,8.0,,,,
+64,149,BEIN,4.0,1.0,11.0,11.0,,,,
+65,150,BOOT,4.0,2.0,7.0,5.0,,,,
+66,151,PFERD,5.0,0.0,14.0,12.0,,,,
+67,152,WORT,4.0,1.0,10.0,7.0,,,,
+68,153,TAG,3.0,0.0,7.0,6.0,,,,
+69,154,KNIE,4.0,1.0,11.0,10.0,,,,
+70,155,HUT,3.0,1.0,6.0,3.0,,,,
+71,156,WORT,4.0,1.0,10.0,7.0,,,,
+72,157,MILCH,5.0,3.0,10.0,8.0,,,,
+73,158,RAD,3.0,0.0,8.0,8.0,,,,
+74,159,GELD,4.0,1.0,9.0,8.0,,,,
+75,160,BOOT,4.0,2.0,7.0,5.0,,,,
+76,161,BEIN,4.0,1.0,11.0,11.0,,,,
+77,162,PFERD,5.0,0.0,14.0,12.0,,,,
+78,163,HUT,3.0,1.0,6.0,3.0,,,,
+79,164,MANN,4.0,0.0,13.0,10.0,,,,
+80,165,KIND,4.0,1.0,9.0,9.0,,,,
+81,166,SPIEL,5.0,3.0,9.0,8.0,,,,
+82,167,KNIE,4.0,1.0,11.0,10.0,,,,
+83,168,TAG,3.0,0.0,7.0,6.0,,,,
+0,1,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (1).BMP,14.771700712209,21480.2901960784,1996.82614379085
+1,2,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (2).BMP,14.771700712209,21480.2901960784,1996.82614379085
+2,3,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (3).BMP,8.18045884555443,11623.0,1093.08235294118
+3,4,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (4).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+4,5,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (5).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+5,6,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (6).BMP,12.667892977345,18128.1803921569,1698.76862745098
+6,7,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (7).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+7,8,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (8).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+8,9,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (9).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+9,10,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (10).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+10,11,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (11).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+11,12,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (12).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+12,13,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (13).BMP,12.5093226704877,18487.062745098,1704.73071895425
+13,14,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (14).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+14,15,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (15).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+15,16,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (16).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+16,17,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (17).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+17,18,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (18).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+18,19,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (19).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+19,20,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (20).BMP,8.18045884555443,11623.0,1093.08235294118
+20,21,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (21).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+21,22,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (22).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+22,23,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (23).BMP,14.771700712209,21480.2901960784,1996.82614379085
+23,24,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (24).BMP,12.5093226704877,18487.062745098,1704.73071895425
+24,25,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (25).BMP,12.667892977345,18128.1803921569,1698.76862745098
+25,26,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (26).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+26,27,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (27).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+27,28,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (28).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+28,29,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (29).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+29,30,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (30).BMP,12.667892977345,18128.1803921569,1698.76862745098
+30,31,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (31).BMP,8.18045884555443,11623.0,1093.08235294118
+31,32,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (32).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+32,33,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (33).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+33,34,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (34).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+34,35,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (35).BMP,12.5093226704877,18487.062745098,1704.73071895425
+35,36,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (36).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+36,37,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (37).BMP,14.771700712209,21480.2901960784,1996.82614379085
+37,38,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (38).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+38,39,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (39).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+39,40,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (40).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+40,41,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (41).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+41,42,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (42).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+42,43,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (43).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+43,44,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (44).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+44,45,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (45).BMP,12.5093226704877,18487.062745098,1704.73071895425
+45,46,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (46).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+46,47,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (47).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+47,48,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (48).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+48,49,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (49).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+49,50,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (50).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+50,51,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (51).BMP,8.18045884555443,11623.0,1093.08235294118
+51,52,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (52).BMP,12.667892977345,18128.1803921569,1698.76862745098
+52,53,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (53).BMP,14.771700712209,21480.2901960784,1996.82614379085
+53,54,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (54).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+54,55,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (55).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+55,56,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (56).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+56,57,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (57).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+57,58,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (58).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+58,59,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (59).BMP,8.18045884555443,11623.0,1093.08235294118
+59,60,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (60).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+60,61,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (61).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+61,62,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (62).BMP,12.667892977345,18128.1803921569,1698.76862745098
+62,63,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (63).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+63,64,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (64).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+64,65,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (65).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+65,66,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (66).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+66,67,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (67).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+67,68,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (68).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+68,69,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (69).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+69,70,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (70).BMP,14.771700712209,21480.2901960784,1996.82614379085
+70,71,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (71).BMP,12.5093226704877,18487.062745098,1704.73071895425
+71,72,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (72).BMP,9.03027585101784,11228.7176470588,1128.8091503268
+72,73,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (73).BMP,9.72309638406739,12590.8235294118,1240.32156862745
+73,74,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (74).BMP,15.1336475037954,19667.5411764706,1933.97908496732
+74,75,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (75).BMP,12.5093226704877,18487.062745098,1704.73071895425
+75,76,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (76).BMP,8.18045884555443,11623.0,1093.08235294118
+76,77,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (77).BMP,12.9369699189558,16482.9450980392,1636.96209150327
+77,78,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (78).BMP,15.0903476676076,21159.6431372549,2003.12810457516
+78,79,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (79).BMP,8.55531599550211,14607.6196078431,1253.17777777778
+79,80,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (80).BMP,14.1746499577751,17622.6274509804,1771.72549019608
+80,81,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (81).BMP,11.4241071267737,15388.8588235294,1486.34379084967
+81,82,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (82).BMP,14.9475372112728,20292.7921568627,1952.36339869281
+82,83,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (83).BMP,12.667892977345,18128.1803921569,1698.76862745098
+83,84,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Symbol_ (84).BMP,15.1140285923802,18546.2784313725,1876.82352941177
+84,85,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (1).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+85,86,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (2).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+86,87,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (3).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+87,88,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (4).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+88,89,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (5).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+89,90,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (6).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+90,91,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (7).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+91,92,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (8).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+92,93,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (9).BMP,53.3547983579417,7217.86666666667,2199.86535947712
+93,94,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (10).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+94,95,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (11).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+95,96,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (12).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+96,97,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (13).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+97,98,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (14).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+98,99,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (15).BMP,32.303185750664,4149.47058823529,1297.84836601307
+99,100,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (16).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+100,101,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (17).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+101,102,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (18).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+102,103,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (19).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+103,104,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (20).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+104,105,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (21).BMP,53.3547983579417,7217.86666666667,2199.86535947712
+105,106,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (22).BMP,32.303185750664,4149.47058823529,1297.84836601307
+106,107,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (23).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+107,108,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (24).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+108,109,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (25).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+109,110,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (26).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+110,111,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (27).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+111,112,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (28).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+112,113,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (29).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+113,114,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (30).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+114,115,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (31).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+115,116,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (32).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+116,117,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (33).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+117,118,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (34).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+118,119,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (35).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+119,120,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (36).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+120,121,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (37).BMP,32.303185750664,4149.47058823529,1297.84836601307
+121,122,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (38).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+122,123,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (39).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+123,124,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (40).BMP,53.3547983579417,7217.86666666667,2199.86535947712
+124,125,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (41).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+125,126,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (42).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+126,127,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (43).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+127,128,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (44).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+128,129,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (45).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+129,130,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (46).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+130,131,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (47).BMP,53.3547983579417,7217.86666666667,2199.86535947712
+131,132,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (48).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+132,133,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (49).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+133,134,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (50).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+134,135,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (51).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+135,136,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (52).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+136,137,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (53).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+137,138,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (54).BMP,32.303185750664,4149.47058823529,1297.84836601307
+138,139,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (55).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+139,140,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (56).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+140,141,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (57).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+141,142,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (58).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+142,143,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (59).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+143,144,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (60).BMP,34.5357679139394,4412.76862745098,1383.86928104575
+144,145,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (61).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+145,146,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (62).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+146,147,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (63).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+147,148,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (64).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+148,149,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (65).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+149,150,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (66).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+150,151,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (67).BMP,53.3547983579417,7217.86666666667,2199.86535947712
+151,152,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (68).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+152,153,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (69).BMP,32.303185750664,4149.47058823529,1297.84836601307
+153,154,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (70).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+154,155,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (71).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+155,156,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (72).BMP,46.8346080931998,5960.1137254902,1872.9045751634
+156,157,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (73).BMP,49.8454070534231,6683.37254901961,2046.04575163399
+157,158,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (74).BMP,34.9703505403637,4444.72156862745,1397.58169934641
+158,159,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (75).BMP,40.8508802266122,5511.95294117647,1682.12549019608
+159,160,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (76).BMP,42.7964919108146,5508.51764705882,1721.18039215686
+160,161,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (77).BMP,41.7467787791053,5953.34509803922,1767.24575163399
+161,162,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (78).BMP,53.3547983579417,7217.86666666667,2199.86535947712
+162,163,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (79).BMP,29.6295986692809,4123.87058823529,1239.13986928105
+163,164,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (80).BMP,52.8107440657391,6755.70980392157,2117.39346405229
+164,165,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (81).BMP,41.0889962697888,5588.96078431373,1698.76470588235
+165,166,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (82).BMP,45.5445692702362,6375.33333333333,1910.1816993464
+166,167,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (83).BMP,41.8695705257882,5819.8431372549,1749.8862745098
+167,168,,,,,,/Users/alex/Documents/GitHub/Visual-Similarity/Data/4_Eberhard_2016_del//4_Word_ (84).BMP,32.303185750664,4149.47058823529,1297.84836601307
