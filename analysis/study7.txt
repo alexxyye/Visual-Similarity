@@ -1,0 +1,13 @@
+
+	Paired t-test
+
+data:  value by condition
+t = -0.027969, df = 5, p-value = 0.9788
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -0.09502626  0.09298065
+sample estimates:
+mean difference 
+   -0.001022805 
+
+[1] 0.01141839
