@@ -6,7 +6,7 @@ library(lsr)
 # set cd
 setwd("/Users/alex/Documents/GitHub/Visual-Similarity/analysis")
 ## get data
-mean_df_res <- read_csv("mean_df_res.csv")
+mean_df_res <- read_csv("mean_df_res.csv", col_types = cols(sum_of_square = col_skip()))
 names(mean_df_res)[1] <- "condition" #change 1st column name
 ## compare between 2 conditions within each study
 #get data
