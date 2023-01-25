@@ -62,6 +62,8 @@ studylist <- list(study1, study2, study3, study4, study5, study6, study7)
 
 
 summary_list <- list()
+df <- data.frame(matrix(ncol = 8, nrow = 7))
+colnames(df) <- c("study.ID", "p.value", "dgr.of.frd", "conf.int.lb", "conf.int.ub", "mean.diff", "std.err", "cohens.d")
 i = 0
 for (studies in studylist){
   i = i + 1
@@ -78,10 +80,17 @@ for (studies in studylist){
                  method = "paired")
   summaries <- capture.output(print(t_test), print(efs))
   summary_list[[i]] <- summaries
+  df[i, 1] <- i
+  df[i, 2] <- t_test$p.value
+  df[i, 3] <- t_test$parameter
+  df[i, 4] <- t_test$conf.int[1]
+  df[i, 5] <- t_test$conf.int[2]
+  df[i, 6] <- t_test$estimate
+  df[i, 7] <- t_test$stderr
+  df[i, 8] <- efs
 }
 
 # exporting data
-cha_sum_list <- as.character(summary_list)
-writeLines(cha_sum_list, con = file('summaries.txt'))
+write_csv2(df, file = "./paired_t_result.csv")
 
 
