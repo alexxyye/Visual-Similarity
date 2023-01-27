@@ -27,27 +27,70 @@ korean5 <-mean_df_res[12, ]
 study5 <- merge(chinese5, korean5, all = TRUE)
 chinese7 <-mean_df_res[10, ]
 korean7 <-mean_df_res[13, ]
-study7 <- merge(chinese7, korean7, all = TRUE)
+study6 <- merge(chinese7, korean7, all = TRUE)
 chinese8 <-mean_df_res[11, ]
 korean8 <-mean_df_res[14, ]
-study8 <- merge(chinese8, korean8, all = TRUE)
+study7 <- merge(chinese8, korean8, all = TRUE)
 
-## make a function
-batch <- function(study1){
+studylist <- list(study1, study2, study3, study4, study5, study6, study7)
+# 
+# # filename function
+# make_filename = function(label, number){
+#   # these can be easily turned into parameters
+#   suffix = ""
+#   dir = "./"
+#   
+#   # doing this, putting it all on a single line or using pipe %>%
+#   # is just matter of style
+#   filename = paste(label, number, suffix, sep="_")
+#   filename = paste0(filename, ".csv")
+#   filename = file.path(dir, filename)
+#   
+#   filename
+# }
+# 
+# combinations = expand.grid("label"=string_label, "number"=string_number)
+# filenames = mapply(make_filename, combinations$label, combinations$number)
+# 
+# save_element = function(element, label, number){
+#   filename = make_filename(label, number)
+#   write.csv(element, filename,row.names=TRUE)
+# }
+# 
+# combinations = expand.grid("label"=string_label, "number"=string_number)
+# mapply(save_element, myelement, combinations$label, combinations$number)
+
+
+summary_list <- list()
+df <- data.frame(matrix(ncol = 8, nrow = 7))
+colnames(df) <- c("study.ID", "p.value", "dgr.of.frd", "conf.int.lb", "conf.int.ub", "mean.diff", "std.err", "cohens.d")
+i = 0
+for (studies in studylist){
+  i = i + 1
   # wide to long
-  study1 <- melt(study1, id.vars = "condition")
-  study1 <- arrange(study1, condition) #sorting by condition
+  studies <- melt(studies, id.vars = "condition")
+  studies <- arrange(studies, condition) #sorting by condition
   # paired t-test
   t_test <- t.test(value ~ condition, 
-         data = study1, 
-         paired = TRUE)
+                   data = studies, 
+                   paired = TRUE)
   # effect size
   efs <- cohensD(value ~ condition,
-          data   = study1,
-          method = "paired")
-  # exporting data
-  #nm1 <- paste0(deparse(substitute(study1)),'.csv')
+                 data   = studies,
+                 method = "paired")
   summaries <- capture.output(print(t_test), print(efs))
-  writeLines(summaries, con = file("default.csv"))
+  summary_list[[i]] <- summaries
+  df[i, 1] <- i
+  df[i, 2] <- t_test$p.value
+  df[i, 3] <- t_test$parameter
+  df[i, 4] <- t_test$conf.int[1]
+  df[i, 5] <- t_test$conf.int[2]
+  df[i, 6] <- t_test$estimate
+  df[i, 7] <- t_test$stderr
+  df[i, 8] <- efs
 }
+
+# exporting data
+write_csv2(df, file = "./paired_t_result.csv")
+
 
