@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import statistics
+
 
 
 def mean_df(df):
@@ -135,3 +137,36 @@ print(len(out_list))
 
 mean_df_res = mean_def(out_list)
 mean_df_res.to_csv('mean_df_res.csv')
+
+
+# mean_df_res.DataFrame.hist(column='sum_of_square')
+# l_mean = mean_df_res['sum_of_square'].tolist()
+
+
+modifying_lmean = pd.read_excel('modified_mean.xlsx')
+print(modifying_lmean['sum_of_square'])
+# modifying_lmean.plot.bar(x="name", y="sum_of_square", rot=70, title="Number of tourist visits - Year 2018");
+# plt.show(block=True)
+l_values = modifying_lmean['sum_of_square'].tolist()
+
+l_set = []
+set_ = []
+for item in range(len(l_values)):
+    ind = item % 2
+    set_.append(l_values[item])
+    if ind == 1:
+        l_set.append(set_)
+        set_ = []
+
+means = []
+stds = []
+for item in l_set:
+    mean = statistics.mean(item)
+    std = statistics.stdev(item)
+    means.append(mean)
+    stds.append(std)
+
+x = modifying_lmean['name']
+y = means
+plt.errorbar(range(len(y)),y,yerr=stds,fmt='o',ecolor='r',color='b',elinewidth=2,capsize=4)
+plt.show()
