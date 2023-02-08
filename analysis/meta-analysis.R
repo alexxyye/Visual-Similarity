@@ -9,6 +9,8 @@ meta <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/analysis/meta.c
 colnames(meta)[30] <- "visual.similarity"
 colnames(meta)[31] <- "writing.system"
 
+meta[30] <- rev(df$cohens.d)
+
 # call the metacont random effect model
 mod = metacont(
   n.early,
