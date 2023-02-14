@@ -233,8 +233,10 @@ studylist <- list(study1, study2, study3, study4, study5, study6, study7)
 n = 0
 for (stdy_n in studylist){
   n = n + 1
-  # stdy_n <- stdy_n %>% select(condition, stroke_sum, PC) # select columns you want
+  # stdy_n <- stdy_n %>% select(condition, strk_sum, PC) # !!!select columns you want!!!
   studylist[[n]] <- stdy_n}
+
+para_name <- 'Stk_Sum&PC' # !!!!!CHANGE PARAMETER NAME HERE!!!!!
 ```
 
 ## Comparing data
@@ -278,7 +280,6 @@ for (studies in studylist){
 ```{r}
 df <- data.frame(matrix(ncol = 2, nrow = 7))
 colnames(df) <- c("study.ID", "diff")
-para_name <- '' # !!!!!CHANGE PARAMETER NAME HERE!!!!!
 for (n in 1:7){
   diff <- studylist[[n]][2, 2]-studylist[[n]][1, 2]
   df[n, 1] <- n
@@ -304,8 +305,8 @@ colnames(meta)[30] <- "visual.similarity"
 colnames(meta)[31] <- "writing.system"
 
 # replace Visual Similarity Index with results from VS analysis
-# meta[30] <- rev(df$cohens.d)
-meta[30] <- rev(df$diff)
+meta[30] <- rev(df$cohens.d)
+# meta[30] <- rev(df$diff)
 
 # call the metacont random effect model
 mod = metacont(
@@ -327,6 +328,14 @@ mod = metacont(
 MetaReg.vs <- metareg(mod, formula = ~ visual.similarity, method.tau = "REML", hakn = TRUE)
 MetaReg.ws <- metareg(mod, formula = ~ writing.system, method.tau = "REML", hakn = TRUE)
 MetaReg.vs
+```
+
+### Data Output
+
+```{r}
+X5 [ , 1] <- para_name
+X5 [ , ] <- MetaReg.vs$pval[2]
+
 ```
 
 ## Plots
