@@ -291,22 +291,51 @@ all_in1 <- function(para_name, possibility){
   return(pval)
 }
 
-
-## combination reference
-v <- read_csv('/Users/alex/Documents/GitHub/Visual-Similarity/analysis/25ParaCombinations.csv')
-
-pvallist <- list()
-poss_list <- c('possibility1', 'possibility2', 'possibility3')
-temp <- data.frame(matrix(data = NA, nrow = 3, ncol = 3)) 
-colnames(temp) <- c('parameters', 'possibility', 'pval')
-
-for (combi in 1:length(v[[1]])){
-  para_name <- eval(parse(text = v[[1]][combi]))
-  for (i in 1:length(poss_list)){
-    temp[i, 1] <- v[[1]][combi]
-    temp[i, 2] <- poss_list[i]
-    temp[i, 3] <- all_in1(para_name, poss_list[i])
-    pvallist[[combi]] <- temp
+get_para_diff <- function(para_name, possibility){
+  if (possibility == 'possibility1'){
+    studylist <- get_studylist(para_name, possibility1(df.filelist))
   }
+  else if (possibility == 'possibility2'){
+    studylist <- get_studylist(para_name, possibility2(df.filelist))
+  }
+  else if (possibility == 'possibility3'){
+    studylist <- get_studylist(para_name, possibility3(df.filelist))
+  }
+  else{
+    print('wrong input')
+  }
+  df <- g_diff(studylist)
+  return(df)
 }
-pvals <- do.call(rbind, pvallist)
+
+paras <- data.frame(matrix(data = NA, nrow = 7, ncol = 6))
+colnames(paras) <- c('study.ID', 'obj_num', 'disc_strk', 'strk_sum', 'junc_sum', 'PC')
+
+poss_list <- c('possibility1', 'possibility2', 'possibility3')
+para_list <- c('obj_num', 'disc_strk', 'strk_sum', 'junc_sum', 'PC')
+
+for (i in 1:length(para_list)){
+  diff <- get_para_diff(para_list[i], poss_list[1])
+  paras[, i+1] <- diff[, 2]
+}
+
+
+
+# ## combination reference
+# v <- read_csv('/Users/alex/Documents/GitHub/Visual-Similarity/analysis/25ParaCombinations.csv')
+# 
+# pvallist <- list()
+# poss_list <- c('possibility1', 'possibility2', 'possibility3')
+# temp <- data.frame(matrix(data = NA, nrow = 3, ncol = 3)) 
+# colnames(temp) <- c('parameters', 'possibility', 'pval')
+# 
+# for (combi in 1:length(v[[1]])){
+#   para_name <- eval(parse(text = v[[1]][combi]))
+#   for (i in 1:length(poss_list)){
+#     temp[i, 1] <- v[[1]][combi]
+#     temp[i, 2] <- poss_list[i]
+#     temp[i, 3] <- all_in1(para_name, poss_list[i])
+#     pvallist[[combi]] <- temp
+#   }
+# }
+# pvals <- do.call(rbind, pvallist)

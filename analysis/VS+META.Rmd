@@ -305,7 +305,7 @@ colnames(meta)[30] <- "visual.similarity"
 colnames(meta)[31] <- "writing.system"
 
 # replace Visual Similarity Index with results from VS analysis
-meta[30] <- rev(df$cohens.d)
+# meta[30] <- rev(df$cohens.d)
 # meta[30] <- rev(df$diff)
 
 # call the metacont random effect model
