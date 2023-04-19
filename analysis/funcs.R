@@ -308,17 +308,17 @@ get_para_diff <- function(para_name, possibility){
   return(df)
 }
 
-paras <- data.frame(matrix(data = NA, nrow = 7, ncol = 6))
-colnames(paras) <- c('study.ID', 'obj_num', 'disc_strk', 'strk_sum', 'junc_sum', 'PC')
-
-poss_list <- c('possibility1', 'possibility2', 'possibility3')
-para_list <- c('obj_num', 'disc_strk', 'strk_sum', 'junc_sum', 'PC')
-
-for (i in 1:length(para_list)){
-  diff <- get_para_diff(para_list[i], poss_list[1])
-  paras[, i+1] <- diff[, 2]
-}
-
+# paras <- data.frame(matrix(data = NA, nrow = 7, ncol = 6))
+# colnames(paras) <- c('study.ID', 'obj_num', 'disc_strk', 'strk_sum', 'junc_sum', 'PC')
+# 
+# poss_list <- c('possibility1', 'possibility2', 'possibility3')
+# para_list <- c('obj_num', 'disc_strk', 'strk_sum', 'junc_sum', 'PC')
+# 
+# for (i in 1:length(para_list)){
+#   diff <- get_para_diff(para_list[i], poss_list[3])
+#   paras[, i+1] <- diff[, 2]
+# }
+# 
 
 
 # ## combination reference
@@ -339,3 +339,5 @@ for (i in 1:length(para_list)){
 #   }
 # }
 # pvals <- do.call(rbind, pvallist)
+
+

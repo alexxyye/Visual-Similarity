@@ -34,7 +34,27 @@ c$vi <- vi
 
 m_multi <- rma(yi = yi,
                vi = vi,
-               mods = ~strk_sum+obj_num+disc_strk+PC, 
+               mods = ~PC+obj_num+disc_strk, 
                data = c)
 m_multi
 
+# # bubble plot
+# library(ggplot2)
+# coef_df <- as.data.frame(t(coef(m_multi)))
+# names(coef_df) <- c("Estimate", "se", "Zval", "pval")
+# coef_df$model <- rownames(coef_df)
+# 
+# ggplot(coef_df, aes(x = model, y = Estimate, size = se, color = Zval)) + 
+#   geom_point() + 
+#   scale_color_gradient(low = "blue", high = "red") + 
+#   coord_flip() +
+#   labs(title = "Bubble Plot for Meta-Regression Model",
+#        x = "Predictor Variables",
+#        y = "Estimate")
+
+objsum.disc.int <- rma(yi = yi, 
+                      vi = vi, 
+                      data = c, 
+                      method = "REML", 
+                      mods = ~ obj_num * PC, 
+                      test = "knha")
