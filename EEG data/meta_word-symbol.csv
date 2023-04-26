@@ -1,0 +1,8 @@
+id,author,writing system,task,pubyear,word,control,n.participant,mean.age,L1,sampling_rate,channels,cap,reference,filtering,offline-filtering,word.mean,word.n,word.sd,symbol.mean,symbol.n,symbol.sd
+1,"Maurer, Brandeis et al. (2005)",0,repetition detection,2005,German,Symbol,13,adult,German,500,43,"Easy Cap, FMS, Munic",Avg,0.1-70,0.1-30,-1.187077076923077,13,2.447649976902589,0.3521776153846154,13,2.2217346675274006
+2,"Maurer, McCandliss (2005)",0,repetition detection,2005,English,Symbol,15,adult,English,250,128,geodesic sensor net,Avg,0.1-100,0.3-30,-0.32824013333333335,15,1.664644322813086,0.11444866666666671,15,1.9690015895362396
+3,"Maurer, McCandliss (2008)",0,repetition detection,2008,English,Symbol,18,adult,English,500,128,geodesic sensor net,Avg,0.3-30,0.3-30,0.29210841176470587,17,2.2742425990647157,0.9523145294117646,17,2.6012504830720866
+4,Eberhard-Moscicka (2016),0,repetition detection,2016,German,False_fonts  ,22,adult,German,250,128,geodesic sensor net,Avg,0.1-100,0.3-30,0.40380504545454543,22,1.514852623994586,0.1255570454545455,22,1.642049175711381
+5,Wang (2017),1,repetition detection,2017,Chinese,Korean,20,adult,Chinese,1000,128,geodesic sensor net,Avg,0.1-100,0.3-30,0.82155035,20,2.662699179735387,0.10545549999999998,20,2.895426906154082
+6,Maurer (unpublished): follow up study,1,repetition detection,NA,Chinese,Korean,32,adult,Chinese,500,128,geodesic sensor net,Avg,NA,0.3-30,0.5485114687499999,32,1.933511704556713,-1.1546793125,32,2.1292946412226845
+7,(Maurer (in preparation): repetition suppression,1,script decision,NA,Chinese,Korean,18,adult,Chinese,500,128,geodesic sensor net,Avg,NA,0.3-30,-0.8595639444444444,18,3.3914260461628207,-2.0720851666666666,18,3.5236108074854164
