@@ -12,26 +12,40 @@ c <- cbind(multi.meta, poss3[2:6])
 library(meta)
 library(metafor)
 # import data
-meta <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/EEG data/meta_word-symbol.csv")
+word_symbol <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/EEG data/meta_word-symbol.csv")
+early_late <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/EEG data/meta_early-late.csv")
 
 # call the metacont random effect model
-mod = metacont(
+wd_sym_late_mod = metacont(
   word.n,
   word.mean,
   word.sd,
   symbol.n,
   symbol.mean,
   symbol.sd,
-  data = meta,
-  studlab = meta$author,
+  data = meta_late,
+  studlab = meta_late$author,
+  method.smd = "Hedges",
+  method.bias = "Egger")
+
+ely_lt_mod = metacont(
+  early.n,
+  early.mean,
+  early.sd,
+  late.n,
+  late.mean,
+  late.sd,
+  data = early_late,
+  studlab = early_late$author,
   method.smd = "Hedges",
   method.bias = "Egger")
 # forest plot mod
-forest(mod)
+forest(wd_sym_mod)
+forest(ely_lt_mod)
 
-
-yi <- mod$TE
-vi <- mod$seTE
+## multiple regression
+yi <- wd_sym_mod$TE
+vi <- ely_lt_mod$seTE
 a$yi <- yi
 b$yi <- yi
 c$yi <- yi
@@ -41,5 +55,7 @@ c$vi <- vi
 
 m_multi <- rma(yi = yi,
                vi = vi,
-               mods = ~PC+obj_num+disc_strk, 
+               mods = ~obj_num, 
                data = c)
+
+
