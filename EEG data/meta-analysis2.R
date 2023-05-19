@@ -58,4 +58,3 @@ m_multi <- rma(yi = yi,
                mods = ~obj_num, 
                data = c)
 
-
