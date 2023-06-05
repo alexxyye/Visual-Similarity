@@ -1,6 +1,7 @@
 library(readr)
 
-raw_df <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/EEG data/Raw Data.csv")
+setwd("D:/Github/Visual-Similarity/")
+raw_df <- read_csv("./EEG data/Raw Data.csv")
 # # 
 # # calculate difference between word and symbol
 # word_1 <- raw_df$Late.word_1 - raw_df$Early.word_1
@@ -90,11 +91,11 @@ for (j in 1:7){
 
 
 # meta analysis dataframe
-meta_ori <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/analysis/meta.csv")
+meta_ori <- read_csv("./analysis/meta.csv")
 meta_ori <- meta_ori[, -c(3:30)] # get what I want
-df_early <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/EEG data/raw_early.csv")
+df_early <- read_csv("./EEG data/raw_early.csv")
 df_early <- df_early[, -1]
-df_late <- read_csv("/Users/alex/Documents/GitHub/Visual-Similarity/EEG data/raw_late.csv")
+df_late <- read_csv("./EEG data/raw_late.csv")
 df_late <- df_late[, -1]
 
 # df_early <- data.frame(matrix(data = NA, nrow = 7, ncol = 6))
