@@ -148,75 +148,8 @@ dat <- escalc(measure="SMD", n1i=early.n, n2i=late.n,
 yi <- mod$TE
 vi <- mod$seTE
 res <- rma(yi, vi, data=dat)
-### a little helper function to add Q-test, I^2, and tau^2 estimate info
-mlabfun <- function(text, res) {
-  list(bquote(paste(.(text),
-                    " (Q = ", .(formatC(res$QE, digits=2, format="f")),
-                    ", df = ", .(res$k - res$p),
-                    ", p ", .(metafor:::.pval(res$QEp, digits=2, showeq=TRUE, sep=" ")), "; ",
-                    I^2, " = ", .(formatC(res$I2, digits=1, format="f")), "%, ",
-                    tau^2, " = ", .(formatC(res$tau2, digits=2, format="f")), ")")))}
-### set up forest plot (with 2x2 table counts added; the 'rows' argument is
-### used to specify in which rows the outcomes will be plotted)
-forest(res, xlim=c(-16, 4.6), at=log(c(0.05, 0.25, 1, 4)), atransf=exp,
-       ilab=cbind(early.n, early.mean, early.sd, late.n, late.mean, late.sd), 
-       ilab.xpos=c(-15,-13.5, -12,-10,-8.5, -7), cex=1, 
-       xlab = "Late N1 - Early N1 PTE",
-       order=1:7, rows=c(1:4,5:7),
-       mlab=mlabfun("RE Model for All Studies", res),
-       psize=2, header="Author(s) and Year")
 
-### set font expansion factor (as in forest() above) and use a bold font
-op <- par(cex=0.75, font=2)
-
-### add additional column headings to the plot
-text(c(-9.5,-8,-6,-4.5), 26, c("TB+", "TB-", "TB+", "TB-"))
-text(c(-8.75,-5.25),     27, c("Vaccinated", "Control"))
-
-### switch to bold italic font
-par(font=4)
-
-### add text for the subgroups
-text(-16, c(24,16,5), pos=4, c("Systematic Allocation",
-                               "Random Allocation",
-                               "Alternate Allocation"))
-
-### set par back to the original settings
-par(op)
-
-### fit random-effects model in the three subgroups
-res.s <- rma(yi, vi, subset=(alloc=="systematic"), data=dat)
-res.r <- rma(yi, vi, subset=(alloc=="random"),     data=dat)
-res.a <- rma(yi, vi, subset=(alloc=="alternate"),  data=dat)
-
-### add summary polygons for the three subgroups
-addpoly(res.s, row=18.5, mlab=mlabfun("RE Model for Subgroup", res.s))
-addpoly(res.r, row= 7.5, mlab=mlabfun("RE Model for Subgroup", res.r))
-addpoly(res.a, row= 1.5, mlab=mlabfun("RE Model for Subgroup", res.a))
-
-### fit meta-regression model to test for subgroup differences
-res <- rma(yi, vi, mods = ~ alloc, data=dat)
-
-### add text for the test of subgroup differences
-text(-16, -1.8, pos=4, cex=0.75, bquote(paste("Test for Subgroup Differences: ",
-                                              Q[M], " = ", .(formatC(res$QM, digits=2, format="f")), ", df = ", .(res$p - 1),
-                                              ", p = ", .(formatC(res$QMp, digits=2, format="f")))))
-
-yi2 <- mod2$TE
-vi2 <- mod2$seTE
-mod_res2 <- rma(yi2, vi2, data=meta_2)
-regtest(mod_res2, model="rma")
-
-forest(mod_res, atransf=exp, at=log(c(.05, .25, 1, 4)), xlim=c(-16,6),
-       ilab=cbind(mod_res$dat$early.n, mod_res$dat$early.mean, 
-                  mod_res$dat$early.sd, mod_res$dat$late.n, 
-                  mod_res$dat$late.mean, mod_res$dat$late.sd), 
-       ilab.xpos=c(-9.5,-8,-6,-4.5,-2.5,-0.5),
-       cex=.75, header="Author(s) and Year", mlab="")
-op <- par(cex=.75, font=2)
-text(c(-9.5,-8,-6,-4.5,-2.5,-0.5), mod_res$k+2, c("Early N", "Early Mean", "Early SD",
-                                    "Late N", "Late Mean", "Late SD"))
-text(c(-8,-2.5),     mod_res$k+3, c("Ealry N1 PTE", "Late N1 PTE"))
+forest(mod, xlab = "Early N1 - Late N1")
 
 # call the metacont random effect model
 wd_sym_early_mod = metacont(
