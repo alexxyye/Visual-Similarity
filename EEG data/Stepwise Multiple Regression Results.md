@@ -201,3 +201,29 @@ Details on meta-analytical method:
 - Inverse variance method
 - Restricted maximum-likelihood estimator for tau^2
 - Q-Profile method for confidence interval of tau^2 and tau
+
+### wd_sym_late_mod moderator analysis
+Mixed-Effects Model (k = 7; tauA2 estimator: REML)
+
+tau^2 (estimated amount of residual heterogeneity):     0.0839 (SE = 0.7126)
+tau (square root of estimated tauA2 value):             0.2897
+I^2 (residual heterogeneity / unaccounted variability): 9.60%
+H^2 (unaccounted variability / sampling variability):   1.11
+R^2 (amount of heterogeneity accounted for):            95.34%
+
+Test for Residual Heterogeneity: 
+QE(df = 3) = 3.3508, p-val = 0.3406 
+
+Test of Moderators (coefficients 2:4): 
+QM(df = 3) = 14.4344, p-val = 0.0024 
+
+Model Results: 
+
+            estimate    se      zval    pval    ci.lb       ci.ub 
+intrcpt     -0.4947     0.5010  -0.9875 0.3234  -1.4766     0.4872 
+PC          -42.3097    14.9328 -2.8333 0.0046  -71.5773    -13.0420    ** 
+obj_num     27.4348     7.6107  3.6048  0.0003  12.5181     42.3515     *** 
+disc_strk   -15.3988    5.7660  -2.6706 0.0076  -26.6999    -4.0978     ** 
+
+---
+Signif. codes: 0 `***' 0.001 "4" 0.01 `4" 0.05 " 0.1 " 1 
