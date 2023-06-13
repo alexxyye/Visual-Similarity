@@ -2,23 +2,23 @@ library(readr)
 
 setwd("D:/Github/Visual-Similarity/")
 raw_df <- read_csv("./EEG data/Raw Data.csv")
-# # 
-# # calculate difference between word and symbol
-# word_1 <- raw_df$Late.word_1 - raw_df$Early.word_1
-# word_2 <- raw_df$Late.word_2 - raw_df$Early.word_2
-# word_3 <- raw_df$Late.word_3 - raw_df$Early.word_3
-# word_4 <- raw_df$Late.word_4 - raw_df$Early.word_4
-# word_5 <- raw_df$Late.word_5 - raw_df$Early.word_5
-# word_6 <- raw_df$Late.word_6 - raw_df$Early.word_6
-# word_7 <- raw_df$Late.word_7 - raw_df$Early.word_7
-# 
-# symbol_1 <- raw_df$Late.symbol_1 - raw_df$Early.symbol_1
-# symbol_2 <- raw_df$Late.symbol_2 - raw_df$Early.symbol_2
-# symbol_3 <- raw_df$Late.symbol_3 - raw_df$Early.symbol_3
-# symbol_4 <- raw_df$Late.symbol_4 - raw_df$Early.symbol_4
-# symbol_5 <- raw_df$Late.symbol_5 - raw_df$Early.symbol_5
-# symbol_6 <- raw_df$Late.symbol_6 - raw_df$Early.symbol_6
-# symbol_7 <- raw_df$Late.symbol_7 - raw_df$Early.symbol_7
+#
+# calculate difference between word and symbol
+word_1 <- raw_df$Late.word_1 - raw_df$Early.word_1
+word_2 <- raw_df$Late.word_2 - raw_df$Early.word_2
+word_3 <- raw_df$Late.word_3 - raw_df$Early.word_3
+word_4 <- raw_df$Late.word_4 - raw_df$Early.word_4
+word_5 <- raw_df$Late.word_5 - raw_df$Early.word_5
+word_6 <- raw_df$Late.word_6 - raw_df$Early.word_6
+word_7 <- raw_df$Late.word_7 - raw_df$Early.word_7
+
+symbol_1 <- raw_df$Late.symbol_1 - raw_df$Early.symbol_1
+symbol_2 <- raw_df$Late.symbol_2 - raw_df$Early.symbol_2
+symbol_3 <- raw_df$Late.symbol_3 - raw_df$Early.symbol_3
+symbol_4 <- raw_df$Late.symbol_4 - raw_df$Early.symbol_4
+symbol_5 <- raw_df$Late.symbol_5 - raw_df$Early.symbol_5
+symbol_6 <- raw_df$Late.symbol_6 - raw_df$Early.symbol_6
+symbol_7 <- raw_df$Late.symbol_7 - raw_df$Early.symbol_7
 # 
 early_1 <- raw_df$Early.symbol_1 - raw_df$Early.word_1
 early_2 <- raw_df$Early.symbol_2 - raw_df$Early.word_2
@@ -37,34 +37,34 @@ late_6 <- raw_df$Late.symbol_6 - raw_df$Late.word_6
 late_7 <- raw_df$Late.symbol_7 - raw_df$Late.word_7
 # 
 # comparison
-# word <- cbind(word_1, word_2, word_3, word_4, word_5, word_6, word_7)
-# symbol <- cbind(symbol_1, symbol_2, symbol_3, symbol_4, symbol_5, symbol_6, symbol_7)
+word <- cbind(word_1, word_2, word_3, word_4, word_5, word_6, word_7)
+symbol <- cbind(symbol_1, symbol_2, symbol_3, symbol_4, symbol_5, symbol_6, symbol_7)
 early <- cbind(early_1, early_2, early_3, early_4, early_5, early_6, early_7)
 late <- cbind(late_1, late_2, late_3, late_4, late_5, late_6, late_7)
 # 
-# # Word / Symbol Comparison
-# # get a summary df
-# df <- data.frame(matrix(data = NA, nrow = 7, ncol = 6))
-# colnames(df) <- c("word.mean", "word.n", "word.sd", "symbol.mean", "symbol.n", "symbol.sd")
-# for (i in 1:7){
-#   w <- as.vector(word[, i])
-#   w_mean <- mean(w, na.rm = TRUE)
-#   w_n <- sum(!is.na(symbol[, i]))
-#   w_sd <- sd(w, na.rm = TRUE)
-# 
-#   s <- as.vector(symbol[, i])
-#   s_mean <- mean(s, na.rm = TRUE)
-#   s_n <- sum(!is.na(symbol[, i]))
-#   s_sd <- sd(s, na.rm = TRUE)
-# 
-#   df[i, 1] <- w_mean
-#   df[i, 2] <- w_n
-#   df[i, 3] <- w_sd
-#   df[i, 4] <- s_mean
-#   df[i, 5] <- s_n
-#   df[i, 6] <- s_sd
-# }
-# 
+# Word / Symbol Comparison
+# get a summary df
+df <- data.frame(matrix(data = NA, nrow = 7, ncol = 6))
+colnames(df) <- c("word.mean", "word.n", "word.sd", "symbol.mean", "symbol.n", "symbol.sd")
+for (i in 1:7){
+  w <- as.vector(word[, i])
+  w_mean <- mean(w, na.rm = TRUE)
+  w_n <- sum(!is.na(symbol[, i]))
+  w_sd <- sd(w, na.rm = TRUE)
+
+  s <- as.vector(symbol[, i])
+  s_mean <- mean(s, na.rm = TRUE)
+  s_n <- sum(!is.na(symbol[, i]))
+  s_sd <- sd(s, na.rm = TRUE)
+
+  df[i, 1] <- w_mean
+  df[i, 2] <- w_n
+  df[i, 3] <- w_sd
+  df[i, 4] <- s_mean
+  df[i, 5] <- s_n
+  df[i, 6] <- s_sd
+}
+
 # 
 ## Early / Late Comparison
 # get summary df2
@@ -182,13 +182,13 @@ poss3 <- read_csv('./poss3_diff.csv')
 c <- cbind(multi.meta, poss3[2:6])
 
 
-yi <- wd_sym_early_mod$TE
-vi <- wd_sym_early_mod$seTE
+yi <- mod$TE
+vi <- mod$seTE
 c$yi <- yi
 c$vi <- vi
-early_reg <- rma(yi = yi,
+reg <- rma(yi = yi,
                vi = vi,
-               mods = ~PC+obj_num+disc_strk, 
+               mods = ~PC+obj_num+writing.system, 
                data = c)
 
 yi <- wd_sym_late_mod$TE
